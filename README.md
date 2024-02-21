@@ -3,11 +3,11 @@
 -Namratha M<br>
 -Akhil Manoj<br>
 -Raghavendra S Shettigar<br>
-Hello everyone, we are team CryptoCrafters. We have been working on building a Blockchain based automatic market makers for decentralised stock exchange facilitating microinvesting with fractional shares.
-#What is the problem?
+Hello everyone, we are team CryptoCrafters. We have been working on building a Blockchain based automatic market makers for decentralised stock exchange facilitating microinvesting with fractional shares.<br>
+#What is the problem?<br>
 The speed of order execution in the stock market has become exponentially faster when compared to the early days of electronic market. Though the transaction speed hasincreased, the underlying architecture 
 or models behind the markets have remained the same. The bigger players, such as financial institutions, have an advantage over smaller players because of factors such as information asymmetry and access to
-better infrastructure, which give them an advantage in terms of the speed of execution. This makes the centralized stock market an uneven playing field.
+better infrastructure, which give them an advantage in terms of the speed of execution. This makes the centralized stock market an uneven playing field.<br>
 #Our Solution
 Our project with the help of Blockchain Technology overcomes the limitations of centralized financial markets, particularly the disadvantage faced by non-institutional or small traders due to information asymmetry 
 and better infrastructure access by financial institutions.
