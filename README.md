@@ -21,7 +21,7 @@ Overall, this contract allows to define functions in derived contracts.<br>
 #FractionalShareToken Contract<br>
 This Solidity smart contract inherits from two other contracts: ERC20 and Ownable.The ERC20 contract is a standard implementation of the ERC20 token standard for fungible tokens on the Ethereum blockchain.
 The main function of this contract is the The mint function allows the owner of the contract to mint additional tokens. It takes two parameters: account, the address to which the tokens will be minted, and amount, the number of tokens to mint. This function is restricted to be called only by the owner of the contract using the onlyOwner modifier inherited from the Ownable contract. Inside the function, it calls the _mint function inherited from ERC20 to mint the specified amount of tokens and assign them to the specified account.<br>
-#MicroInvestingPlatform<br>
+#MicroInvestingPlatform Contract<br>
 This Solidity smart conract facilitates a platform for micro-investing that allows users to invest in a fractional share token and withdraw their investments
 We have mainly two functions in this contract.<br>
 The invest function allows users to invest in the platform by transferring ERC20 tokens to this contract. It takes an amount parameter, representing the number of tokens to invest. It first checks that the investment amount is greater than 0, then transfers tokens from the sender to the platform contract using the transferFrom function of the shareToken. It then updates the user's share balance in the userShares mapping and emits an Invest event.<br>
