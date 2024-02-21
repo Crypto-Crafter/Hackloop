@@ -8,14 +8,14 @@ Hello everyone, we are team CryptoCrafters. We have been working on building a B
 The speed of order execution in the stock market has become exponentially faster when compared to the early days of electronic market. Though the transaction speed hasincreased, the underlying architecture 
 or models behind the markets have remained the same. The bigger players, such as financial institutions, have an advantage over smaller players because of factors such as information asymmetry and access to
 better infrastructure, which give them an advantage in terms of the speed of execution. This makes the centralized stock market an uneven playing field.<br>
-#Our Solution
-Our project with the help of Blockchain Technology overcomes the limitations of centralized financial markets, particularly the disadvantage faced by non-institutional or small traders due to information asymmetry 
-and better infrastructure access by financial institutions.
-#Tech stack and Tools used
+#Our Solution<br>
+Our project with the help of Blockchain Technology overcomes the limitations of centralized financial markets, particularly the disadvantage faced by non-institutional or small traders due to information asymmetry
+and better infrastructure access by financial institutions.<br>
+#Tech stack and Tools used<br>
 We have built Ethereum smart contracts using Solidity and deployed it on Hardhat Network
-We have also used ERC20 Tokens from OpenZeppelin library
-Hardhat is a local Ethereum network which is specifically designed for development
-#Ownable Contract 
+We have also used ERC20 Tokens from OpenZeppelin library<br>
+Hardhat is a local Ethereum network which is specifically designed for development<br>
+#Ownable Contract<br>
 This Solidity smart contract defines a basic implementation of the Ownable pattern, commonly used in Ethereum smart contracts to restrict access to certain functions or actions to only the owner of the contract.
 Overall, this contract allows to define functions in derived contracts.
 #FractionalShareToken Contract
