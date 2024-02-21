@@ -1,8 +1,8 @@
-#Team CryptoCrafters`
--Dinesh Acharya`
--Namratha M`
--Akhil Manoj`
--Raghavendra S Shettigar`
+#Team CryptoCrafters```
+-Dinesh Acharya```
+-Namratha M```
+-Akhil Manoj```
+-Raghavendra S Shettigar```
 Hello everyone, we are team CryptoCrafters. We have been working on building a Blockchain based automatic market makers for decentralised stock exchange facilitating microinvesting with fractional shares.
 #What is the problem?
 The speed of order execution in the stock market has become exponentially faster when compared to the early days of electronic market. Though the transaction speed hasincreased, the underlying architecture 
